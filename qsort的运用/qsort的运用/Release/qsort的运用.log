@@ -1,0 +1,7 @@
+﻿  text.c
+D:\VS\作业\qsort的运用\qsort的运用\text.c(28,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“stu”
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 6 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  qsort的运用.vcxproj -> D:\VS\作业\qsort的运用\Release\qsort的运用.exe
