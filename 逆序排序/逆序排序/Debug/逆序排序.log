@@ -1,0 +1,4 @@
+﻿  text.c
+D:\VS\作业\逆序排序\逆序排序\text.c(7,18): warning C4013: “strlen”未定义；假设外部返回 int
+D:\VS\作业\逆序排序\逆序排序\text.c(23,6): warning C4013: “gets”未定义；假设外部返回 int
+  逆序排序.vcxproj -> D:\VS\作业\逆序排序\Debug\逆序排序.exe
