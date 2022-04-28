@@ -1,0 +1,7 @@
+﻿  text.c
+D:\VS\作业\strstr查找字符串\strstr查找字符串\text.c(18,12): warning C4090: “return”: 不同的“const”限定符
+D:\VS\作业\strstr查找字符串\strstr查找字符串\text.c(24,10): warning C4090: “=”: 不同的“const”限定符
+D:\VS\作业\strstr查找字符串\strstr查找字符串\text.c(11,1): warning C4090: “初始化”: 不同的“const”限定符
+D:\VS\作业\strstr查找字符串\strstr查找字符串\text.c(12,1): warning C4090: “初始化”: 不同的“const”限定符
+D:\VS\作业\strstr查找字符串\strstr查找字符串\text.c(13,1): warning C4090: “初始化”: 不同的“const”限定符
+  strstr查找字符串.vcxproj -> D:\VS\作业\strstr查找字符串\Debug\strstr查找字符串.exe
